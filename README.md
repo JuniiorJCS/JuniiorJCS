@@ -36,8 +36,8 @@ Profissional em transição de carreira com:
 
 
 ## 📊 GitHub Analytics
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=esthevamnascimento&show_icons=true&theme=dracula&hide=issues)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=esthevamnascimento&layout=compact&theme=dracula&langs_count=6)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=juniiorjcs&show_icons=true&theme=dracula&hide=issues)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juniiorjcs&layout=compact&theme=dracula&langs_count=6)
 
 ## 📫 Conecte-se Comigo
 - LinkedIn: [Everaldo Junior](https://www.linkedin.com/in/everaldo-junior-224a331b0/)
